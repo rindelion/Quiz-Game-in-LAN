@@ -22,7 +22,7 @@ namespace DoAN
         public Form1()
         {
             InitializeComponent();
-            sqlconnect = new SqlConnection(@"Data Source=DESKTOP-2ML2HR6;Initial Catalog=GAMEQUIZ;Integrated Security=True");
+            sqlconnect = new SqlConnection(@"Data Source=... ;Initial Catalog=... ;Integrated Security=True");
             sqlconnect.Open();
         }
 
