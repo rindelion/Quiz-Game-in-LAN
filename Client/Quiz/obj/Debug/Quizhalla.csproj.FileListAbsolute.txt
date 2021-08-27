@@ -1,0 +1,84 @@
+D:\Code\Đồ án LTM\Quiz\bin\Debug\Quiz.exe.config
+D:\Code\Đồ án LTM\Quiz\bin\Debug\Quiz.exe
+D:\Code\Đồ án LTM\Quiz\bin\Debug\Quiz.pdb
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quizhalla.csprojAssemblyReference.cache
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Emoji.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Leaderboard.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Room.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Single.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Welcome.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Multi.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Login.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quizhalla.csproj.GenerateResource.cache
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quizhalla.csproj.CoreCompileInputs.cache
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.exe
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.pdb
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Lobby.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Answer.resources
+D:\Code\Đồ án LTM\Quiz\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Đồ án LTM\Quiz\bin\Debug\Newtonsoft.Json.xml
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quizhalla.csproj.CopyComplete
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\bin\Debug\Quiz.exe
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quizhalla.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Emoji.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Answer.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Lobby.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Leaderboard.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Room.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Single.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Welcome.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Multi.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Login.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quizhalla.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quizhalla.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quizhalla.csproj.CopyComplete
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.exe
+C:\Users\Admin\Downloads\Compressed\Đồ án LTM\Đồ án LTM\Quiz\obj\Debug\Quiz.pdb
+D:\Code\Đồ án LTM c\Quiz\bin\Debug\Quiz.exe.config
+D:\Code\Đồ án LTM c\Quiz\bin\Debug\Quiz.exe
+D:\Code\Đồ án LTM c\Quiz\bin\Debug\Quiz.pdb
+D:\Code\Đồ án LTM c\Quiz\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Đồ án LTM c\Quiz\bin\Debug\Newtonsoft.Json.xml
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quizhalla.csprojAssemblyReference.cache
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Emoji.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Answer.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Lobby.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Leaderboard.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Room.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Single.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Welcome.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Multi.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Login.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quizhalla.csproj.GenerateResource.cache
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quizhalla.csproj.CoreCompileInputs.cache
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quizhalla.csproj.CopyComplete
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.exe
+D:\Code\Đồ án LTM c\Quiz\obj\Debug\Quiz.pdb
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\bin\Debug\Quiz.exe.config
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\bin\Debug\Quiz.exe
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\bin\Debug\Quiz.pdb
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\bin\Debug\Newtonsoft.Json.dll
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\bin\Debug\Newtonsoft.Json.xml
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quizhalla.csprojAssemblyReference.cache
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Emoji.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Answer.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Lobby.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Leaderboard.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Room.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Single.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Welcome.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Multi.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Login.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quizhalla.csproj.GenerateResource.cache
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quizhalla.csproj.CoreCompileInputs.cache
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quizhalla.csproj.CopyComplete
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.exe
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\Đồ án LTM c\Quiz\obj\Debug\Quiz.pdb

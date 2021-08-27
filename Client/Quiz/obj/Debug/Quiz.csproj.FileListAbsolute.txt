@@ -1,0 +1,12 @@
+D:\Code\Đồ án LTM\Quiz\bin\Debug\Quiz.exe.config
+D:\Code\Đồ án LTM\Quiz\bin\Debug\Quiz.exe
+D:\Code\Đồ án LTM\Quiz\bin\Debug\Quiz.pdb
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.exe
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.pdb
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Login.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Play.resources
+D:\Code\Đồ án LTM\Quiz\obj\Debug\Quiz.Welcome.resources
