@@ -2,8 +2,10 @@
 ### This is my team's first Network project - an quiz game application played in LAN network.
 It have been finished for 3 days so it has a lot of bugs need to fix, but overall, if you are lucky, it will run smoothly without any problems.
 
-If you want to start playing, please create a database for the server connecting to. There is a query to create database and question in the file QuizDatabase.sql which is Vietnamese, you can make a new one in your language. In file Server/DoAn/Form1.cs, there is a code line:
+If you want to start playing, please create a database for the server connecting to. TThe file QuizDatabase.sql contains queries to create database and the questions we used to play this game. It is in Vietnamese, so you can make a new one in your language. In file Server/DoAn/Form1.cs, there is a code line:
+
 sqlconnect = new SqlConnection(@"Data Source=... ;Initial Catalog=... ;Integrated Security=True");
+
 Fill your server name and your database name to connect to the database.
 
 Here is the database schema.
